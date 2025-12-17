@@ -19,8 +19,8 @@ const pixel = Press_Start_2P({
 });
 
 export const metadata: Metadata = {
-  title: "Pixel Business Card | Software Developer",
-  description: "A pixel-art inspired business card for a software developer.",
+  title: "Business Card | Software Developer",
+  description: "",
 };
 
 export default function RootLayout({
