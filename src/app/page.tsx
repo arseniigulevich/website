@@ -2,7 +2,7 @@ const skills = [
   "System Design",
   "REST APIs",
   "Testing",
-  "Python", "Scala", "SQL", "JSONata", "C", "JavaScript", "Rust",
+  "Python", "C++", "SQL", "JSONata", "C", "JavaScript", "Rust",
   "AWS", "Docker", "Git", "CI/CD","OAuth"
 ];
 
